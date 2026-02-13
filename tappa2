@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tappa 2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Come l'Acqua</h1>
+        <div class="heart">❤️</div>
+        <p>
+            Come quest’acqua che scorre,
+            i miei pensieri tornano sempre a te.
+            <br><br>
+            Ora alza lo sguardo verso il marmo bianco
+            che sfiora il cielo.
+        </p>
+    </div>
+</body>
+</html>
